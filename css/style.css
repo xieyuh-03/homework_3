@@ -13,7 +13,7 @@ body{
   font-size: 16px;
   margin: 1.2em;
   font-family: 'Andika', sans-serif;
-  background-image: image('images/pigeon-background.jpeg');
+  background-image: url(../images/pigeon-background.JPEG);
   background-color: #dddddd;
   background-size: cover ;
   background-position: center;
